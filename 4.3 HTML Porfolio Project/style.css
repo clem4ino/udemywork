@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Freeman;
+    src: url(../font/Freeman-Regular.ttf);
+  }
+  
+
+body{
+    font-family: freeman
+}
+
+
+
+.ufc {
+}
+
+.best-clip a,
+.best-clip h2 {
+    display: inline-block ;
+}
+
